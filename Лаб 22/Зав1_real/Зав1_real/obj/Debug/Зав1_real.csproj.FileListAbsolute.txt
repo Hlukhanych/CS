@@ -1,0 +1,11 @@
+D:\C#\Лаб 22\Зав1_real\Зав1_real\bin\Debug\Зав1_real.exe.config
+D:\C#\Лаб 22\Зав1_real\Зав1_real\bin\Debug\Зав1_real.exe
+D:\C#\Лаб 22\Зав1_real\Зав1_real\bin\Debug\Зав1_real.pdb
+D:\C#\Лаб 22\Зав1_real\Зав1_real\obj\Debug\Зав1_real.csproj.AssemblyReference.cache
+D:\C#\Лаб 22\Зав1_real\Зав1_real\obj\Debug\Зав1_real.csproj.SuggestedBindingRedirects.cache
+D:\C#\Лаб 22\Зав1_real\Зав1_real\obj\Debug\Зав1_real.Form1.resources
+D:\C#\Лаб 22\Зав1_real\Зав1_real\obj\Debug\Зав1_real.Properties.Resources.resources
+D:\C#\Лаб 22\Зав1_real\Зав1_real\obj\Debug\Зав1_real.csproj.GenerateResource.cache
+D:\C#\Лаб 22\Зав1_real\Зав1_real\obj\Debug\Зав1_real.csproj.CoreCompileInputs.cache
+D:\C#\Лаб 22\Зав1_real\Зав1_real\obj\Debug\Зав1_real.exe
+D:\C#\Лаб 22\Зав1_real\Зав1_real\obj\Debug\Зав1_real.pdb
